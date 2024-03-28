@@ -3,9 +3,10 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-UK"
 remote_theme             : pages-themes/cayman@v0.2.0
 title                    : "Seán R. Kavanagh"
@@ -15,6 +16,8 @@ description              : &description "PhD Researcher at University College Lo
 url                      : https://seankavanagh.com #kavanase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kavanase/kavanase.github.io"
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -48,13 +51,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -87,34 +93,20 @@ author:
   avatar           : "profile.jpeg"
   bio              : "PhD Researcher at University College London & Imperial College London"
   cv               : "https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf"
-  location         : "London, UK"
-  employer         :
+  location         : "Boston, USA"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en"
   email            : "sean.kavanagh.19@ucl.ac.uk"
+  arxiv            : "https://arxiv.org/a/kavanagh_s_1"
   researchgate     : "https://www.researchgate.net/profile/Sean-Kavanagh-3"
   uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "kavanase"
-  google_plus      :
-  keybase          :
   instagram        :
-  lastfm           :
   linkedin         : "seankav"
   orcid            : "https://orcid.org/0000-0003-4577-9647"
-  pinterest        :
   speakerdeck      : "http://speakerdeck.com/kavanase"
-  tumblr           :
   twitter          : "Kavanagh_Sean_"
-  vine             :
-  weibo            :
-  xing             :
   youtube          : "https://www.youtube.com/c/SeánRKavanagh"
-  wikipedia        :
 
 
 # Reading Files
@@ -244,6 +236,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+
 
 # Sass/SCSS
 sass:
