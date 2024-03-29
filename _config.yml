@@ -91,7 +91,7 @@ analytics:
 author:
   name             : "Seán R. Kavanagh"
   avatar           : "profile.jpeg"
-  bio              : "PhD Researcher at University College London & Imperial College London"
+  bio              : "Environmental Fellow at Harvard"
   cv               : "https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf"
   location         : "Boston, USA"
   employer         : 
@@ -100,12 +100,12 @@ author:
   arxiv            : "https://arxiv.org/a/kavanagh_s_1"
   researchgate     : "https://www.researchgate.net/profile/Sean-Kavanagh-3"
   uri              :
-  github           : "kavanase"
+#  github           : "kavanase"
   instagram        :
   linkedin         : "seankav"
   orcid            : "https://orcid.org/0000-0003-4577-9647"
   speakerdeck      : "http://speakerdeck.com/kavanase"
-  twitter          : "Kavanagh_Sean_"
+#  twitter          : "Kavanagh_Sean_"
 
 
 # Reading Files
