@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 <!-- <img align="right" width="100" height="100" src="images\android-chrome-192x192.png" style="padding: 10px"> -->
-Welcome to my personal website! You can find my academic CV [here](/files/Sean_Kavanagh_CV.pdf) (updated May 2023) and all my social profiles on the left sidebar (or on the [Links](https://kavanase.github.io/links/) page if on mobile). Follow the links at the top to see my list of publications, talks and awards!
 
 ### What I Do
-I'm a final-year PhD student in the research groups of both Professor David Scanlon at University College London and Professor Aron Walsh at Imperial College London. My research uses computational methods such as Density Functional Theory (DFT) to simulate and predict the properties of materials. In particular, my PhD project is focused on the behaviour of defects in solar photovoltaic materials, and how they affect performance through non-radiative electron-hole recombination.
-
+I'm an Environmental Fellow at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research) of Prof. Boris Kozinsky. My research uses computational methods such as Density Functional Theory (DFT) and machine learning (ML) to simulate and predict the properties of materials – in particular defects in solids. Alongside, I have been involved in the development of several computational chemistry/physics/materials science research software codes – see my GitHub profile [here](https://github.com/kavanase)! 👨‍💻
 
 ### Recent Highlights
+My comprehensive defects modelling package [`doped`](https://doped.readthedocs.io/en/latest/) is finally published! 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our comprehensive i̶n̶-̶h̶o̶u̶s̶e̶ defect modelling python package 𝙙𝙤𝙥𝙚𝙙 is now fully live!⚛️<br><br>𝙙𝙤𝙥𝙚𝙙 implements the defect<br>simulation workflow in an efficient and user-friendly, yet powerful and fully-flexible, manner.<br><br>See 🧵 for features (1/n)<a href="https://t.co/gdGKcMKd0b">https://t.co/gdGKcMKd0b</a> <a href="https://t.co/3kelGRQIsJ">pic.twitter.com/3kelGRQIsJ</a></p>&mdash; Seán Kavanagh (@Kavanagh_Sean_) <a href="https://twitter.com/Kavanagh_Sean_/status/1780667455297458185?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <img align="right" width="400" src="files\doped_SnB_combined_logos.png" style="padding: 10px">[`doped`](https://doped.readthedocs.io/en/latest/), my python defect calculation package (which interfaces with our defect structure-searching code [`ShakeNBreak`](https://shakenbreak.readthedocs.io/en/latest/), and other codes developed in the Scanlon & Walsh groups such as [`easyunfold`](https://smtg-bham.github.io/easyunfold/) and [`py-sc-fermi`](https://py-sc-fermi.readthedocs.io/en/latest/), [`CarrierCapture.jl`](https://github.com/WMD-group/CarrierCapture.jl)) now has a proper [documentation site](https://doped.readthedocs.io/en/latest/), check it out!
 
 <br>
