@@ -13,7 +13,6 @@ redirect_from:
 I'm an Environmental Fellow at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research) of Prof. Boris Kozinsky. My research uses computational methods such as Density Functional Theory (DFT) and machine learning (ML) to simulate and predict the properties of materials – in particular defects in solids. Alongside, I have been involved in the development of several computational chemistry/physics/materials science research software codes – see my GitHub profile [here](https://github.com/kavanase)! 👨‍💻
 
 ### Recent Highlights
-My comprehensive defects modelling package [`doped`](https://doped.readthedocs.io/en/latest/) is finally published! 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our comprehensive i̶n̶-̶h̶o̶u̶s̶e̶ defect modelling python package 𝙙𝙤𝙥𝙚𝙙 is now fully live!⚛️<br><br>𝙙𝙤𝙥𝙚𝙙 implements the defect<br>simulation workflow in an efficient and user-friendly, yet powerful and fully-flexible, manner.<br><br>See 🧵 for features (1/n)<a href="https://t.co/gdGKcMKd0b">https://t.co/gdGKcMKd0b</a> <a href="https://t.co/3kelGRQIsJ">pic.twitter.com/3kelGRQIsJ</a></p>&mdash; Seán Kavanagh (@Kavanagh_Sean_) <a href="https://twitter.com/Kavanagh_Sean_/status/1780667455297458185?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
