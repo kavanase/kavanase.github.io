@@ -7,8 +7,8 @@ main:
   - title: "Talks"
     url: /talks/    
     
-  - title: "Awards"
-    url: /awards/
+  # - title: "Awards"  # unnecessary I think, people can see it from the CV if they care
+  #   url: /awards/
 
   - title: "Teaching"
     url: /teaching/  
