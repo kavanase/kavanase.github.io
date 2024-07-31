@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "doped SI Citing Publications"
-permalink: /doped_citing_publications/
+permalink: /doped_SI_citing_publications
 author_profile: true
 ---
 
