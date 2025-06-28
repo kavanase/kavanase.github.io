@@ -3,24 +3,96 @@
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# `jekyll serve -l -H localhost`. If you change this file, please restart the
+# server process.
 
 # Site Settings
 locale                   : "en-UK"
-remote_theme             : pages-themes/cayman@v0.2.0
+site_theme               : "default"
 title                    : "Seán R. Kavanagh"
 title_separator          : "-"
 name                     : &name "Seán R. Kavanagh"
-description              : &description "Environmental Fellow at Harvard"
-url                      : https://seankavanagh.com #kavanase.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Incoming Assistant Professor in Energy Materials Modelling"
+url                      : https://kavanase.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kavanase/kavanase.github.io"
+
+# Site Author - The following control what appear as part of the author content on the side bar.
+#               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#               Additional customization can be done by editing /_includes/author-profile.html
+author:
+  # Biographic information
+  avatar           : "profile.png"
+  name             : "Seán R. Kavanagh"
+  pronouns         : # example: "she/her"
+  bio              : "Incoming Assistant Professor in Energy Materials Modelling"
+  location         : "Cambridge, MA"
+  employer         : "Harvard University (Future: University of Cambridge)"
+  uri              : "https://seankavanagh.com"
+  email            : "skavanagh@seas.harvard.edu"
+
+  # Academic websites
+  academia         : # URL
+  arxiv            : "http://arxiv.org/a/kavanagh_s_1"
+  googlescholar    : "https://bit.ly/3pBMxOG"
+  impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0003-4577-9647"
+  semantic         : # URL
+  pubmed           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Sean-Kavanagh-3"
+  scopus           : # URL
+
+  # Repositories and software development
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  github           : "kavanase"
+  kaggle           : # Username
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
+
+  # Social media
+  bluesky          : "kavanaghsean"
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : "seankav"  # "https://www.linkedin.com/in/seankav/"
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  speakerdeck      : "http://speakerdeck.com/kavanase"
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : "Kavanagh_Sean_"
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : "SeánRKavanagh"  # "https://bit.ly/2U5YgLf"
+  zhihu            : # Username
+
+# Publication Category - The following the list of publication categories and their headings
+publication_category:  # needed?
+  books:
+    title: 'Books'
+  manuscripts:
+    title: 'Journal Articles'
+  conferences:
+    title: 'Conference Papers'
+
+# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -48,13 +120,16 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
+  hide                   : false     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
+
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
+
 
 # Social Sharing
 twitter:
@@ -63,7 +138,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+og_image                 :  # Social media default site image
+og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -74,47 +150,11 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # "google-universal" # false (default), "google", "google-universal", 
+  provider               :  "google-universal" # "google-universal" # false (default), "google", "google-universal",
   google-universal:
     tracking_id          : "UA-209686073-1"
   google-analytics:
     tracking_id          : "G-KRWNYS3Y9G"
-
-
-# Site Author
-author:
-  name             : "Seán R. Kavanagh"
-  avatar           : "profile.jpeg"
-  bio              : "Environmental Fellow at Harvard"
-  cv               : "https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf"
-  location         : "Boston, USA"
-  employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en"
-  email            : "sean.kavanagh.19@ucl.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Sean-Kavanagh-3"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "kavanase"
-  google_plus      :
-  keybase          :
-  instagram        :
-  lastfm           :
-  linkedin         : "seankav"
-  orcid            : "https://orcid.org/0000-0003-4577-9647"
-  pinterest        :
-  speakerdeck      : "http://speakerdeck.com/kavanase"
-  tumblr           :
-  twitter          : "Kavanagh_Sean_"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/c/SeánRKavanagh"
-  wikipedia        :
 
 
 # Reading Files
@@ -127,23 +167,26 @@ exclude:
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
+  - .github
   - .jekyll-assets-cache
   - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gemfile
-  - Gruntfile.js
-  - LICENSE
-  - README
-  - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - CHANGELOG
+  - Capfile
   - config
+  - Dockerfile
+  - Gemfile
+  - Gruntfile.js
   - gulpfile.js
+  - LICENSE
+  - local
   - log
   - node_modules
-  - package.json
+  - package.json*
+  - Rakefile
+  - README
   - tmp
   - vendor
 keep_files:
@@ -173,7 +216,7 @@ kramdown:
   enable_coderay: false
 
 
-# Collections
+# These settings control the types of collections used by the template
 collections:
   teaching:
     output: true
@@ -187,7 +230,7 @@ collections:
 
 toc: true
 
-# Defaults
+# These settings control how pages and collections are included in the site
 defaults:
   # _posts
   - scope:
@@ -201,7 +244,6 @@ defaults:
       share: true
       related: true
       toc: true
-      toc_label: "Test Pop"
   # _pages
   - scope:
       path: ""
@@ -245,6 +287,7 @@ defaults:
       author_profile: true
       share: true
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -260,18 +303,21 @@ timezone: Europe/Dublin # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 # Plugins
 plugins:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
   - jekyll-redirect-from
+  - jemoji
   - jekyll-remote-theme
-# mimic GitHub Pages with --safe
+
+# Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-feed
+  - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
+  - jekyll-redirect-from
   - jemoji
 
 

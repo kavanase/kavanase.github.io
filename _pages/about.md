@@ -1,7 +1,6 @@
 ---
 permalink: /
 #title: "Seán R. Kavanagh" # Maybe delete this if image renders well
-excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
