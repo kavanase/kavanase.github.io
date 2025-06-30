@@ -12,8 +12,8 @@ main:
     url: https://scholar.google.com/citations?user=P-7ICrQAAAAJ&hl=en
     target: "_blank"
 
-  - title: "Talks"
-    url: /talks/    
+#  - title: "Talks"
+#    url: /talks/    # just do CV
 
   # - title: "Awards"  # unnecessary
   #   url: /awards/
@@ -25,9 +25,9 @@ main:
     url: https://github.com/kavanase
     target: "_blank"
     
-#  - title: "CV"  # no longer necessary
-#    url: https://kavanase.github.io/files/Sean_Kavanagh_Academic_CV.pdf
-#    target: "_blank"
+  - title: "CV"
+    url: https://kavanase.github.io/files/Sean_Kavanagh_CV.pdf
+    target: "_blank"
     
 #  - title: "Links"  # redundant
 #    url: /links/
