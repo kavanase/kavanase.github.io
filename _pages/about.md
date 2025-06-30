@@ -12,6 +12,13 @@ redirect_from:
 I'm an Environmental Fellow at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research) of Prof. Boris Kozinsky. My research uses computational methods such as Density Functional Theory (DFT) and machine learning (ML) to simulate and predict the properties of materials – in particular defects in solids. Alongside, I have been involved in the development of several computational chemistry/physics/materials science research software codes – see my GitHub profile [here](https://github.com/kavanase)! 👨‍💻
 
 ### Recent Highlights
+[//]: # (put Cambridge announcement post here when ready)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7264012186040053760?collapsed=1" height="576" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7341089685600935937?collapsed=1" height="671" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7317903281270263809?collapsed=1" height="520" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our comprehensive i̶n̶-̶h̶o̶u̶s̶e̶ defect modelling python package 𝙙𝙤𝙥𝙚𝙙 is now fully live!⚛️<br><br>𝙙𝙤𝙥𝙚𝙙 implements the defect<br>simulation workflow in an efficient and user-friendly, yet powerful and fully-flexible, manner.<br><br>See 🧵 for features (1/n)<a href="https://t.co/gdGKcMKd0b">https://t.co/gdGKcMKd0b</a> <a href="https://t.co/3kelGRQIsJ">pic.twitter.com/3kelGRQIsJ</a></p>&mdash; Seán Kavanagh (@Kavanagh_Sean_) <a href="https://twitter.com/Kavanagh_Sean_/status/1780667455297458185?ref_src=twsrc%5Etfw">April 17, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -63,7 +70,7 @@ Our _Nature Photonics_ [article](https://www.nature.com/articles/s41566-021-0095
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A research team co-led by PhD candidate <a href="https://twitter.com/Kavanagh_Sean_?ref_src=twsrc%5Etfw">@Kavanagh_Sean_</a> <a href="https://twitter.com/UCLChemistry?ref_src=twsrc%5Etfw">@UCLChemistry</a> <a href="https://twitter.com/imperialcollege?ref_src=twsrc%5Etfw">@imperialcollege</a> and <a href="https://twitter.com/ICFOnians?ref_src=twsrc%5Etfw">@ICFOnians</a> has set a new efficiency record for a solar cell that is 1,000 times thinner than standard silicon-based cells. Published in <a href="https://twitter.com/NaturePhotonics?ref_src=twsrc%5Etfw">@NaturePhotonics</a> <a href="https://twitter.com/scanlond81?ref_src=twsrc%5Etfw">@scanlond81</a> <a href="https://t.co/O0p42cDIkP">https://t.co/O0p42cDIkP</a> <a href="https://t.co/S8nbnPA4uC">pic.twitter.com/S8nbnPA4uC</a></p>&mdash; UCL News (@uclnews) <a href="https://twitter.com/uclnews/status/1493580115489476608?ref_src=twsrc%5Etfw">February 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-I was thrilled to be awarded a UCL MAPS (Mathematical & Physical Sciences) Faculty Education Award, and have been nominated for the UCL-wide Provost's Education Awards, for Individual Excellence in Academic Supervision & Tutoring. It's been an absolute pleasure to see the development of the many undergraduate, MSs and PhD students I've worked with over their projects!
+I was thrilled to be awarded a UCL MAPS (Mathematical & Physical Sciences) Faculty Education Award, and have been nominated for the UCL-wide Provost's Education Awards, for Individual Excellence in Academic Supervision & Tutoring. It's been an absolute pleasure to see the development of the many undergraduate, MSc and PhD students I've worked with over their projects!
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Well done to <a href="https://twitter.com/Kavanagh_Sean_?ref_src=twsrc%5Etfw">@Kavanagh_Sean_</a> being a winner of not only the MAPS Faculty Education Awards 2022 but also for UCL Education Awards 2022 <a href="https://twitter.com/UCLChemistry?ref_src=twsrc%5Etfw">@UCLChemistry</a> <a href="https://t.co/zyc1Jcn3pV">pic.twitter.com/zyc1Jcn3pV</a></p>&mdash; CDT_ACM (@CDT_ACM) <a href="https://twitter.com/CDT_ACM/status/1511689088113553412?ref_src=twsrc%5Etfw">April 6, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
