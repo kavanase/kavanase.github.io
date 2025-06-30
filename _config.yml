@@ -25,9 +25,9 @@ author:
   avatar           : "profile.jpg"
   name             : "Seán R. Kavanagh"
   pronouns         : # example: "she/her"
-  bio              : "Incoming Assistant Professor in Energy Materials Modelling"
+  bio              : "Incoming Assistant Professor in Energy Materials Modelling, at the University of Cambridge."
   location         : "Cambridge, MA"
-  employer         : "Harvard University (Future: University of Cambridge)"
+  employer         : "Harvard University"
   uri              : "https://seankavanagh.com"
   email            : "skavanagh@seas.harvard.edu"
 
@@ -76,15 +76,6 @@ author:
   xing             : # Username
   youtube          : "SeánRKavanagh"  # "https://bit.ly/2U5YgLf"
   zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:  # needed?
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
