@@ -15,11 +15,11 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  # - title: "Awards"  # unnecessary I think, people can see it from the CV if they care
+  # - title: "Awards"  # unnecessary
   #   url: /awards/
 
-  - title: "Teaching"
-    url: /teaching/
+#  - title: "Teaching"  # unnecessary
+#    url: /teaching/
 
   - title: "Software"
     url: https://github.com/kavanase
