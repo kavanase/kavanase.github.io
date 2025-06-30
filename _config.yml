@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
   # Social media
-  bluesky          : "kavanaghsean"
+  bluesky          : "kavanaghsean.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : "SeánRKavanagh"  # "https://bit.ly/2U5YgLf"
+  youtube          : "https://bit.ly/2U5YgLf"  # "https://bit.ly/2U5YgLf"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
