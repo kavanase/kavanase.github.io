@@ -8,8 +8,12 @@ redirect_from:
 ---
 <!-- <img align="right" width="100" height="100" src="images\android-chrome-192x192.png" style="padding: 10px"> -->
 
+Check out our group website for the [**Simulation of Advanced Materials (SAM) Lab**](https://sam-lab.net)!
+
 ### What I Do
-I'm an Environmental Fellow at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research) of Prof. Boris Kozinsky. My research uses computational methods such as Density Functional Theory (DFT) and machine learning (ML) to simulate and predict the properties of materials – in particular defects in solids. Alongside, I have been involved in the development of several computational chemistry/physics/materials science research software codes – see my GitHub profile [here](https://github.com/kavanase)! 👨‍💻
+I'm an incoming Assistant Professor in Simulation of Energy Materials at the Yusuf Hamied Department of Chemistry in the University of Cambridge.
+My group, the [Simulation of Advanced Materials (SAM) Lab](https://sam-lab.net) uses state-of-the-art computational methods to design and develop next-generation materials; primarily targeting energy applications.
+Currently I am finishing up my Environmental Fellowship at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research). 
 
 ### Recent Highlights
 [//]: # (put Cambridge announcement post here when ready)
