@@ -11,9 +11,9 @@ redirect_from:
 Check out our group website for the [**Simulation of Advanced Materials (SAM) Lab**](https://sam-lab.net)!
 
 ### What I Do
-I'm an incoming Assistant Professor in Simulation of Energy Materials at the Yusuf Hamied Department of Chemistry in the University of Cambridge.
+I'm an Assistant Professor in Simulation of Energy Materials at the Yusuf Hamied Department of Chemistry in the University of Cambridge.
 My group, the [Simulation of Advanced Materials (SAM) Lab](https://sam-lab.net) uses state-of-the-art computational methods to design and develop next-generation materials; primarily targeting energy applications.
-Currently I am finishing up my Environmental Fellowship at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research). 
+I recently finished my Environmental Fellowship at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research). 
 
 ### Recent Highlights
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7371907936203284480" height="858" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
