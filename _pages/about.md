@@ -16,6 +16,14 @@ My group, the [Simulation of Advanced Materials (SAM) Lab](https://sam-lab.net) 
 I recently finished my Environmental Fellowship at Harvard University, hosted by the [Materials Intelligence Research group](https://mir.g.harvard.edu/research). 
 
 ### Recent Highlights
+<!-- workshop-announcement: start; remove after 16 Dec 2026 -->
+We're organising 'Computational Methods for Defects in Solids', a three-day workshop in Cambridge, UK on 6–8 January 2027, with 12 invited speakers and a format built around discussion. Contributed-talk abstracts are due 23 November; registration and poster abstracts close 16 December. Details and registration: <https://aichemy.ac.uk/event/computational-methods-for-defects-in-solids-workshop>
+
+<!-- LinkedIn announcement post: replace the iframe below with LinkedIn's "Embed this post" code (keeping width="504" to match the other embeds), then uncomment it:
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:POST_ID?collapsed=1" height="HEIGHT" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+-->
+
+<!-- workshop-announcement: end -->
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7371907936203284480" height="858" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7264012186040053760?collapsed=1" height="576" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
